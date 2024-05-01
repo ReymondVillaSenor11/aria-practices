@@ -37,12 +37,12 @@
   },
   "homepage": "https://github.com/w3c/aria-practices#readme",
   "devDependencies": {
-    "@babel/core": "^7.23.2",
-    "@babel/eslint-parser": "^7.22.15",
+    "@babel/core": "^7.24.5",
+    "@babel/eslint-parser": "^7.24.5",
     "ava": "^5.3.1",
     "cheerio": "^1.0.0-rc.12",
     "cross-spawn": "^7.0.3",
-    "cspell": "^7.3.8",
+    "cspell": "^8.7.0",
     "eslint": "^8.57.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-ava": "^14.0.0",
@@ -82,7 +82,7 @@
   },
   "dependencies": {
     "@octokit/rest": "^18.12.0",
-    "dotenv": "^16.3.1",
+    "dotenv": "^16.4.5",
     "node-html-parser": "^5.2.0"
   }
 }
